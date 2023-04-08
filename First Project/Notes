@@ -1,0 +1,3 @@
+* npm init
+* npm i --save-dev typescript
+* npx tsc --init // it will download all the typescript config things.
